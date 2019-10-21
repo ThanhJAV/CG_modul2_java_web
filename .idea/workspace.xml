@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf9211f0-a968-4d76-80f8-c2d8a6efbef2" name="Default Changelist" comment="" />
+    <list default="true" id="d59dc3ca-79b3-45b9-a46d-4eaf76647e1d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1SJLuFxS7KLmQHckCjqdAv8gq5e" />
+  <component name="ProjectId" id="1SVVV4lrcDlRXVrx9BniJ9aaJFo" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="G:/DemoQuanLyProduct" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,16 +30,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf9211f0-a968-4d76-80f8-c2d8a6efbef2" name="Default Changelist" comment="" />
-      <created>1571276972865</created>
+      <changelist id="d59dc3ca-79b3-45b9-a46d-4eaf76647e1d" name="Default Changelist" comment="" />
+      <created>1571648770982</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571276972865</updated>
-      <workItem from="1571276974068" duration="242000" />
+      <updated>1571648770982</updated>
     </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
   </component>
 </project>
