@@ -32,7 +32,8 @@ public class ProductController {
 
     @GetMapping("/list")
     public String getIndex(Model model){
-        model.addAttribute("products",productService.findAllHaveBusiness());
+        List<Product> productList = productService.findAllHaveBusiness();
+        model.addAttribute("products",productList);
         return "/list";
     }
 
