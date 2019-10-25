@@ -13,12 +13,25 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
         <option value="Class" />
         <option value="HTML File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -34,7 +47,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../customer-manage" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3954023" />
@@ -53,6 +66,7 @@
   </component>
   <component name="RunManager">
     <configuration name="CustomerManeger" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.263" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Gradle : come.codegym : untitled-1.0-SNAPSHOT.war">
@@ -135,7 +149,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571844804448</updated>
-      <workItem from="1571844811511" duration="2321000" />
+      <workItem from="1571844811511" duration="21148000" />
+      <workItem from="1571977204918" duration="6069000" />
+      <workItem from="1571986608064" duration="1883000" />
+      <workItem from="1571989042038" duration="1239000" />
+      <workItem from="1571991643289" duration="8634000" />
     </task>
     <servers />
   </component>

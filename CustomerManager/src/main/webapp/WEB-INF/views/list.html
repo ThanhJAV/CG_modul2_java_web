@@ -5,8 +5,12 @@
     <title>Title</title>
 </head>
 <body>
-<a href="/create-customer">Create new customer</a>
+
 <h1>Customers</h1>
+<a href="/">Create new customer</a>
+<th:block th:if="${message}">
+    <p th:text="${message}"></p>
+</th:block>
 <table border="1">
     <tr>
         <th>First name</th>
